@@ -1,17 +1,18 @@
 <html>
     <head>
-        <link rel="icon"
-        type="image/png"
-        href="orange.png">
         <title>
-            html 5
+            hey
         </title>
     </head>
         <body>
-            <centre>
+            <center>
                 <h1>
-                    wassup
+                    gucci!
+                    wasssup.
                 </h1>
-            </centre>
-        </body>    
+            </center>
+            <h2>
+                gang
+            </h2>
+        </body>
 </html>
