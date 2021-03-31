@@ -1,5 +1,5 @@
 body {
-background-color: #851dc0ab;
+background-color: #0066ffab;
 color: beige;
 font-family: verdana;
 }
@@ -12,7 +12,7 @@ a {
   float: none;
   color: beige;
   text-align: center;
-  padding: none;
+  padding: 10px;
   text-decoration: none;
 }
 
@@ -29,4 +29,12 @@ img:hover {
 
 h3 {
   text-decoration: underline;
+}
+
+hr {
+  color:white;
+}
+
+h6 {
+  color:black;
 }
