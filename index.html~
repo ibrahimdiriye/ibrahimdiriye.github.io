@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+	<head>
+		<title>
+			Hello, it works!
+		</title>
+	</head>
+
+	<body>
+<style>
+color: blue;
+</style>
+
+		<h1>
+			
+			<div class="gregory">
+				<p>
+				<em>
+					The site is fully functioning!
+				</em>
+				</p>
+			</div>
+			<hr>
+			<div class="greggory#2">
+				<p>
+				you should probably put something on it, huh?
+				</p>
+			</div>
+			
+		</h1>
+	</body>
+</html>
+
