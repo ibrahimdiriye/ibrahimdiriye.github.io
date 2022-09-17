@@ -1,5 +1,5 @@
 body {
-    background-image: BrushStrokes.jpg;
+    background-image: url("BrushStrokes.jpg");
     text-align: center;
 }
 
